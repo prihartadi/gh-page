@@ -239,7 +239,7 @@ class R {
       ((this.$$.skip_bound = !0), this.$$set(t), (this.$$.skip_bound = !1));
   }
 }
-var ie = "assets/svelte.d72399d3.png";
+var ie = "svelte.d72399d3.png";
 function se(e) {
   let t, n, o, r, s;
   return {
